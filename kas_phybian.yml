@@ -9,7 +9,7 @@ repos:
       meta:
       meta-isar:
   meta-isar-phytec:
-    url: "https://github.com/phytec/meta-isar-phytec"
+    url: "https://github.com/RijadSK/meta-isar-phytec"
     refspec:  main
   meta-isar-qtdemo:
     url: "https://github.com/phytec/meta-isar-qtdemo"
